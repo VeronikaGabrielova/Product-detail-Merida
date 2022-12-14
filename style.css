@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: "Ubuntu", sans-serif;
-  font-weight: 100;
+  font-weight: 300;
 }
 
 *,
@@ -123,6 +123,7 @@ td {
   right: 20px;
   bottom: 25px;
   padding: 10px 20px;
+  margin-bottom: 5px;
   border: 0;
   border-radius: 5px;
   font-size: 18px;
